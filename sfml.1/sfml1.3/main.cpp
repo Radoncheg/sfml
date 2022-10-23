@@ -1,4 +1,4 @@
-// home homework
+c// home homework
 #include <SFML/Graphics.hpp>
 #include <SFML/System.hpp>
 #include <SFML/Window.hpp>
