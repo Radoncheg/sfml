@@ -147,8 +147,8 @@ int main()
         sf::VideoMode({WINDOW_WIDTH, WINDOW_HEIGHT}),
         "Eyes follow the cursor", sf::Style::Default, settings);
 
-    Eye EyeLeft;
-    Eye EyeRight;
+        Eye EyeLeft;
+        Eye EyeRight;   
     initEyes(EyeLeft, EyeRight);
     sf::Vector2f mousePosition;
 
